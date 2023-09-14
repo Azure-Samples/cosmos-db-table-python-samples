@@ -1,5 +1,6 @@
 # Azure Cosmos DB for Table client library samples for Apache Gremlin
 
+[![Validate Python projects](https://github.com/Azure-Samples/cosmos-db-table-python-samples/actions/workflows/validate.yml/badge.svg)](https://github.com/Azure-Samples/cosmos-db-table-python-samples/actions/workflows/validate.yml)
 
 ## Getting started
 
